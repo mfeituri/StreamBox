@@ -1,4 +1,4 @@
-package com.csci448.mfeituri.streambox
+package com.csci448.mfeituri.streambox.views
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
