@@ -1,7 +1,7 @@
-package com.csci448.mfeituri.streambox.movies.remote.api
+package com.csci448.mfeituri.streambox.movies.data.remote.api
 
 import com.csci448.mfeituri.streambox.BuildConfig
-import com.csci448.mfeituri.streambox.movies.remote.models.MovieDto
+import com.csci448.mfeituri.streambox.movies.data.remote.models.MovieDto
 import com.csci448.mfeituri.streambox.utils.K
 import retrofit2.http.GET
 import retrofit2.http.Query

@@ -1,4 +1,4 @@
-package com.csci448.mfeituri.streambox.movies.remote.models
+package com.csci448.mfeituri.streambox.movies.data.remote.models
 
 
 import kotlinx.serialization.SerialName

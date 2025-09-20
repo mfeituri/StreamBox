@@ -1,7 +1,8 @@
-@file:OptIn(kotlinx.serialization.InternalSerializationApi::class)
+@file:OptIn(InternalSerializationApi::class)
 
-package com.csci448.mfeituri.streambox.movies.remote.models
+package com.csci448.mfeituri.streambox.movies.data.remote.models
 
+import kotlinx.serialization.InternalSerializationApi
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
